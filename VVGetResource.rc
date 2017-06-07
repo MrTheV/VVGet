@@ -1,0 +1,3 @@
+SSLCLIB RCDATA "Resources\\libeay32.dll"
+OpenSSL_License RCDATA "Resources\\OpenSSL License.txt"
+SSLDLL RCDATA "Resources\\ssleay32.dll"
