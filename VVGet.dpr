@@ -5,7 +5,7 @@ program VVGet;
 //Its major advantage is that it can use AutoProxy features by relying on
 //WinHTTP AutoProxy subsystem. Then, if AutoProxy is available, either through DNS,
 //DHCP, JavaScript URL or by other configuration means, VVGet can fetch a file
-//usin said automatic proxy. Manual Proxy is also supported.
+//using said automatic proxy. Manual Proxy is also supported.
 //AutoProxy is considered enabled if parameters from Windows/InternetExplorer specify
 //that "Auto Detect Proxy" is set. See WinHttpGetIEProxyConfigForCurrentUser function
 //and https://msdn.microsoft.com/fr-fr/library/windows/desktop/aa384240(v=vs.85).aspx
